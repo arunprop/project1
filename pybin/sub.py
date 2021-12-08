@@ -1,4 +1,4 @@
-
+#substract y from x
 x=int(input("enter x value:"))
 y=int(input("enter y value:"))
 
