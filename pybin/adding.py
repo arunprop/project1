@@ -1,4 +1,4 @@
-
+#this program is going to take the two numbers and calculate the sum
 x=int(input("enter x value:"))
 y=int(input("enter y value:"))
 
